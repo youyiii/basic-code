@@ -31,4 +31,7 @@ public class Demo01String {
 
     }
 
+
+   System.out.println("第一次使用git提交代码到github");
+
 }
