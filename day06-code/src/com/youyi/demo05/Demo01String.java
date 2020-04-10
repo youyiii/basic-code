@@ -29,9 +29,11 @@ public class Demo01String {
         String str3 = new String(byteArray);
         System.out.println("根据byte数组创建："+str3);
 
+        System.out.println("第一次使用git提交代码到github");
+
+
     }
 
 
-   System.out.println("第一次使用git提交代码到github");
 
 }
