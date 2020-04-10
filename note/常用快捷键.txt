@@ -1,0 +1,9 @@
+alt + enter  自动导入包
+alt + / 代码补全 需设计
+ctrl + Y 删除当前行
+ctrl + D 复制当前行
+ctrl + alt + L 格式化代码
+ctrl + / 注释当前行
+ctrl + shift + / 注释选中行
+alt + ins  自动生成代码  get set方法
+alt + shift + 箭头  移动当前行
