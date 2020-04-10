@@ -154,7 +154,8 @@
 	- 非静态能直接访问静态
 4. 静态代码块
 		``` 
-		public class MyClass{
+		public class MyClass
+		{
 			static
 		}
 		```
