@@ -7,3 +7,5 @@ ctrl + / 注释当前行
 ctrl + shift + / 注释选中行
 alt + ins  自动生成代码  get set方法
 alt + shift + 箭头  移动当前行
+xxx
+谢谢谢谢谢谢
